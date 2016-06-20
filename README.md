@@ -2,6 +2,10 @@
 
 # Status: Proof of Concept
 
+Currently, this project is a proof of concept built on GraphQL, Relay,
+React and Docker 1.12rc2. The intent is to ship a Docker image which
+can be run to expose a GraphQL endpoint, which will be used by the UI.
+
 The server and client use dependencies from the root package.json
 because the `graphql` version needs to be exactly the same.
 
