@@ -31,6 +31,8 @@ docker-machine create
 slurm2
 ```
 
+## POC Screenshot
+
 ![header](./assets/poc-screen.png)
 
 The services show in the above screenshot were started as such:
